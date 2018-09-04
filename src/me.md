@@ -2,35 +2,20 @@
 
 ---
 
-# William DURAND
+# Simon CAULE
 
-PhD / **CTO TailorDev**
-
-Graduated from IUT, ISIMA, Blaise Pascal University. Worked at:
-
-* [Michelin](http://www.michelin.fr/) (Clermont-Fd, France);
-* [Nelmio](http://nelm.io) (Zürich, Switzerland);
-* [e-TF1](http://www.tf1.fr/) (Paris, France);
-* [Prizee.com](http://prizee.com) (Clermont-Fd, France).
+Expert Php Chez Clever Age
 
 Open-Source evangelist:
 
-* Lead developer of [Geocoder](http://geocoder-php.org/), and [several other
-  projects](https://github.com/willdurand);
-* (Inactive?) Contributor on Symfony.
-
 <p class="center">
-    <i class="fa fa-twitter"></i> <a href="https://twitter.com/couac">twitter.com/couac</a>
+    <i class="fa fa-twitter"></i> <a href="https://twitter.com/couac">twitter.com/simoncaule</a>
     &nbsp;|&nbsp;
-    <i class="fa fa-github"></i> <a href="https://github.com/willdurand">github.com/willdurand</a>
-    &nbsp;|&nbsp;
-    <i class="fa fa-globe"></i> <a href="http://www.williamdurand.fr">williamdurand.fr</a>
+    <i class="fa fa-github"></i> <a href="https://github.com/willdurand">github.com/scaule</a>
 </p>
 
 ---
 
-# [edu@drnd.me](mailto:edu@drnd.me)
-
 ---
 
-# ![](images/clermontech.png)
+# ![](images/clever-age.png)
