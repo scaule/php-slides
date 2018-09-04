@@ -4,9 +4,7 @@
 
 # Simon CAULE
 
-Expert Php Chez Clever Age
-
-Open-Source evangelist:
+Php expert for Clever Age, CEO of PetBooking 
 
 <p class="center">
     <i class="fa fa-twitter"></i> <a href="https://twitter.com/couac">twitter.com/simoncaule</a>
