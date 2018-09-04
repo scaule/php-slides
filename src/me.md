@@ -12,8 +12,4 @@ Php expert for Clever Age, CEO of PetBooking
     <i class="fa fa-github"></i> <a href="https://github.com/willdurand">github.com/scaule</a>
 </p>
 
----
-
----
-
 # ![](images/clever-age.png)
